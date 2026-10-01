@@ -1,16 +1,26 @@
-## Hi there 👋
+# Franco Ragona
 
-<!--
-**franragona/franragona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / Full Stack Developer con experiencia en productos CRM multicanal y sistemas de loyalty/retention.
 
-Here are some ideas to get you started:
+## Stack principal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ruby on Rails
+- GraphQL
+- PostgreSQL
+- Redis / Sidekiq
+- Vue 3 / Vuetify
+- Apollo Client
+- Go / WhatsMeow
+- Docker
+
+## Experiencia
+
+Trabajé en Beast CRM y Magik CRM desarrollando APIs, lógica de negocio, jobs asincrónicos, mensajería multicanal, dashboards analíticos e integraciones de WhatsApp.
+
+## Actualmente
+
+Buscando oportunidades como Backend Developer o Full Stack Developer, con foco en Ruby on Rails, APIs, GraphQL e integraciones.
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/francoragona/)
